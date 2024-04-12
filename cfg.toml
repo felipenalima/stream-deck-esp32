@@ -1,0 +1,3 @@
+[stream-deck-esp32]
+wifi_ssid = "YOUR_SSID_NETWORK"
+wifi_psk = "YOUR_PASSWORD_NETWORK"
